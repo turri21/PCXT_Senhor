@@ -2,6 +2,7 @@
 
 Tested: Working Video 720p, 1080p & Sound.
 
+Dev notes: F12 displays the credits and pauses the core. If after pressing it there is no video signal, the port needs to be adjusted and resynthesized.
 ___
 # [IBM PC/XT](https://en.wikipedia.org/wiki/IBM_Personal_Computer_XT) for [MiSTer FPGA](https://mister-devel.github.io/MkDocs_MiSTer/)
 
