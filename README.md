@@ -1,3 +1,10 @@
+-=(PCXT_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+Dev notes: Clocks swapped in sys.tcl - Use Quartus 23.1 to synthesize.
+___
+
 # [IBM PC/XT](https://en.wikipedia.org/wiki/IBM_Personal_Computer_XT) for [MiSTer FPGA](https://mister-devel.github.io/MkDocs_MiSTer/)
 
 PCXT port for MiSTer by [@spark2k06](https://github.com/spark2k06/).
